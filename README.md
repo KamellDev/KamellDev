@@ -12,7 +12,7 @@
 
 # Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamellDev&theme=dark&repo=kamelldev.github.io)](https://github.com/KamellDev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamellDev&theme=dark&repo=kamelldev.github.io)](https://github.com/KamellDev/kamelldev.github.io)
 
 # 📫 How to reach me:
 
