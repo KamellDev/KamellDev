@@ -3,7 +3,7 @@
 # Bio
 - 👋 Hi, I'm Kamell (this is my Internet's nickname)
 - 🎮 I'm interested in RPG games, movies and books
-- 🌱 I'm currently still learning HTML and CSS, but I am on the way to work as a Front-end Developer
+- 🌱 I'm currently still learning HTML and CSS, but I am on the way to work as a Back-end Developer
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
